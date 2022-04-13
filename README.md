@@ -1,16 +1,17 @@
-### Hi there 👋
+### 🖤 Welcome to my Github guys !
 
-<!--
-**Sohhka/Sohhka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[--
+• 📌 French developer
+• 💻 Web, PHP, SQL, JS, React, Lua
+--]
 
-Here are some ideas to get you started:
+[--
+• 🎵 ###untitled 02 | 06.23.2014.
+--]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[--
+• 📫 Contact me on discord | .ѕσннкα#8888
+• ⚡ https://discord.gg/8WgX3Rx3BS
+--]
+
+[![sohhka's github stats](https://github-readme-stats.vercel.app/api?username=sohhka)](https://github.com/anuraghazra/github-readme-stats)
