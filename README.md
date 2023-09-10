@@ -15,4 +15,4 @@
 
 • ⚡ https://discord.gg/8WgX3Rx3BS
 
-[![sohhka's github stats](https://github-readme-stats.vercel.app/api?username=sohhka)](https://github.com/anuraghazra/github-readme-stats)
+![sohhka's github stats](https://github-readme-stats.vercel.app/api?username=sohhka&show_icons=true&theme=dracula)
