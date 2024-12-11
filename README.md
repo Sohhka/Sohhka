@@ -1,4 +1,4 @@
-### 🖤 Welcome to my Github guys !
+### ABOUT ME
 
 
 • 📌 French developer
@@ -11,7 +11,7 @@
 
 
 
-• 📫 Contact me on discord | .ѕσннкα#8888
+• 📫 Contact me on discord | sohhka
 
 • ⚡ https://discord.gg/8WgX3Rx3BS
 
